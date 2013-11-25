@@ -20,3 +20,5 @@ alterCheckBox
         unchecked:"unchecked2"
     });
      </pre>
+
+<p>演示：http://tool.yimity.com/alterCheckBox/</p>
